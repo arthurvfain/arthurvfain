@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... anything really, but I definitely could use some help getting MIRROR a little more off the ground
 - 📫 How to reach me ... arthurvfain@gmail.com
 
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurvfain)]
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurvfain)
 
 
 <!---
